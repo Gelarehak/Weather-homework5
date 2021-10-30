@@ -6,7 +6,7 @@ body {
   padding: 20px;
   border-radius: 10px;
   max-width: 600px;
-  margin: 30px auto;
+  margin: 30px auto 0px;
 }
 h1 {
   font-size: 40px;
@@ -61,4 +61,11 @@ p {
 }
 .wind {
   font-size: 12px;
+}
+.creatby {
+  text-align: center;
+  font-size: 15px;
+  display: block;
+  margin: 10px auto;
+  padding: 0px;
 }
